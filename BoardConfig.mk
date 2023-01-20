@@ -145,4 +145,4 @@ TW_USE_SAMSUNG_HAPTICS := true
 
 #PBRP
 PB_DISABLE_DEFAULT_DM_VERITY := true
-PB_TORCH_PATH := /sys/devices/virtual/camera/flash/rear_flash
+PB_TORCH_PATH := "/sys/devices/virtual/camera/flash/rear_flash"
